@@ -1,15 +1,10 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "changelog": [
-        "✨ Initial release",
+        "✨ Add a alert notification before buying fuel-station",
         "🎨 Advanced UI system with animations",
         "⚡ Optimized performance",
-        "🔧 Multiple framework support (ESX/QB)",
-        "🛠️ Advanced fuel station management",
-        "🚛 Custom delivery system",
-        "💼 Employee management system",
-        "📊 Real-time fuel price tracking",
-        "🔄 Automatic version checking"
+        "🔧 Some Bug Fix",
     ],
     "download": "https://keymaster.fivem.net/login?return_url=/"
 } 
